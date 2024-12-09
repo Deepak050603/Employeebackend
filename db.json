@@ -1,0 +1,25 @@
+{
+  "employees": [
+    {
+      "name": "neel",
+      "age": 28,
+      "status": "Active",
+      "email": "neel@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "max",
+      "age": 32,
+      "status": "Active",
+      "email": "max@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "r",
+      "age": 3,
+      "status": "Inactive",
+      "email": "jndudw@gmail.com",
+      "id": 4
+    }
+  ]
+}
